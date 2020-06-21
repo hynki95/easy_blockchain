@@ -1,0 +1,23 @@
+eth.blockNumber
+miner.start()
+eth.blockNumber
+miner.start()
+eth.blockNumber
+web3.eth.accounts
+eth.blockNumber
+minter.start()
+miner.start()
+miner.setEtherbase(eth.coinbase)
+geth attach
+miner.start()
+miner.stop()
+eth.blockNumber
+miner.start()
+eth.blockNumber
+miner.start()
+eth.blockNumber
+miner.stop()
+eth.blockNumber
+miner.start()
+miner.stop()
+eth.getBalance(eth.accounts[0])
